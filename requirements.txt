@@ -1,0 +1,14 @@
+# Python dependencies
+# Install with: python -m pip install -r requirements.txt
+torch
+numpy
+pandas
+scipy
+scikit-learn
+PyYAML
+geopandas
+shapely
+matplotlib
+folium
+nbformat
+jupyterlab
